@@ -162,6 +162,15 @@ Note: Theme names provided are case-insensitive and any use of underscores will 
 |      `telegram-gradient`      |                 ![image](https://github.com/user-attachments/assets/985c3e04-a5dd-4cba-a66e-d43ad9668af0)                  |
 |          `microsoft`          |                 ![image](https://github.com/user-attachments/assets/4c2cce9d-90b5-4e38-8422-656c5a78b4d9)                  |
 |       `microsoft-dark`        |                 ![image](https://github.com/user-attachments/assets/a5918d7d-f568-4012-b06f-d9cfacaece04)                  |
+|       `hacker-inverted`       |                 ![image](https://github.com/user-attachments/assets/b64c136a-827b-4177-98f9-28db59bba0ef)                  |
+|      `rust-ferris-light`      |                 ![image](https://github.com/user-attachments/assets/2e1d175f-c39d-4e56-be41-d9c277f1e83a)                  |
+|      `rust-ferris-dark`       |                 ![image](https://github.com/user-attachments/assets/05e3f9ac-708d-415d-990f-ede3d0a84bab)                  |
+|      `cyber-streakglow`       |                 ![image](https://github.com/user-attachments/assets/8c6108e1-f3a1-4653-9f68-08ed6dcfc498)                  |
+|           `vitesse`           |                 ![image](https://github.com/user-attachments/assets/baa2fa20-36ea-4158-befc-79c21f102f87)                  |
+|         `nord-aurora`         |                 ![image](https://github.com/user-attachments/assets/d61bf5c3-66f2-4c02-bd9d-30bf1be47c97)                  |
+|          `dark-aura`          |                 ![Image](https://github.com/user-attachments/assets/14889d0e-26db-4fa6-8026-6312c9b4636e)                  |
+|       `everforest-dark`       |                 ![image](https://github.com/user-attachments/assets/45a4e0a0-d330-4233-9d76-89003e59bb31)                  |
+|      `everforest-light`       |                 ![image](https://github.com/user-attachments/assets/592466c0-5a67-48cc-adf0-f8a21ca891b6)                  |
 
 ### Can't find the theme you like?
 
